@@ -57,7 +57,7 @@
     "codex.editor.simple-image": "^1.2.1",
     "codex.editor.table": "^1.1.2",
     "css-loader": "^0.28.11",
-    "electron": "^2.0.0-beta.7",
+    "electron": "^9.4.0",
     "electron-builder": "^20.14.3",
     "eslint": "^4.19.1",
     "eslint-loader": "^2.0.0",
