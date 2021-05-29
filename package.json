@@ -38,7 +38,7 @@
     "tapable": "^1.0.0",
     "winston": "^3.0.0-rc4",
     "winston-daily-rotate-file": "^3.1.2",
-    "ws": "^5.1.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "asar": "^0.14.3",
